@@ -5,7 +5,7 @@
 
     .style3
     {
-        height: 19px;
+        height: 20px;
     }
     .style2
     {
